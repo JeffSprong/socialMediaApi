@@ -1,0 +1,14 @@
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/view/Following.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/App.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/service/CommentService.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/controller/PostController.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/entity/Comment.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/repository/CommentRepository.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/service/PostService.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/entity/Post.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/controller/UserController.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/controller/CommentController.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/entity/User.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/service/UserService.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/repository/PostRepository.java
+/Users/jrnh/eclipse-workspace/com.promineotech.socialMediaApi/src/main/java/com/promineotech/socialMediaApi/repository/UserRepository.java
